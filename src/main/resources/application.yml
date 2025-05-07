@@ -2,3 +2,8 @@ server.port: 8083
 
 spring:
   application.name: name:sensors-temperature-processing
+  rabbitmq:
+    host: 64.31.26.6
+    port: 5672
+    username: admin
+    password: Chr0n0sD3v
